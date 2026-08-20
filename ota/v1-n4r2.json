@@ -1,0 +1,21 @@
+{
+  "version": "1.0.2",
+  "model": "blockboy-v1-n4r2",
+  "layout": 1,
+  "date": "2026-08-20",
+  "notes": "HTTPS-test V1 via testaccount",
+  "files": [
+    {
+      "partition": "launcher",
+      "url": "https://github.com/1v0Tech/blockboy-ota-test/releases/download/v1.0.1/launcher.bin",
+      "size": 1618416,
+      "sha256": "1ed70338688d2eecc714512ad0bdce308f8b906fb47cfe304d67d178131aac44"
+    },
+    {
+      "partition": "retro-core",
+      "url": "https://github.com/1v0Tech/blockboy-ota-test/releases/download/v1.0.1/retro-core.bin",
+      "size": 1496176,
+      "sha256": "47882af94f277364c03b6fc2d906b04a0aacafbf5f493ca788b51a1f65f3e95e"
+    }
+  ]
+}
