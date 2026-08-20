@@ -1,9 +1,9 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.1",
   "model": "blockboy-v2-n16r8",
   "layout": 1,
   "date": "2026-08-20",
-  "notes": "HTTPS-test via testaccount",
+  "notes": "HTTPS-test afgerond — versie teruggezet op de echte firmwareversie",
   "files": [
     {
       "partition": "launcher",
